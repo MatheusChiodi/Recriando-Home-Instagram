@@ -3,7 +3,7 @@
 ___
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54115624/100724645-db7bb180-33a1-11eb-9e09-d886895efa9d.png" width="300" heigth="300">
+  <img src="https://github.com/MatheusChiodi/Recriando-Home-Instagram/blob/main/images/sistema.png" width="300" heigth="300">
 </p>
 
 ___
@@ -16,7 +16,7 @@ ___
 ___
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54115624/100724645-db7bb180-33a1-11eb-9e09-d886895efa9d.png" max-width="800">
+  <img src="https://github.com/MatheusChiodi/Recriando-Home-Instagram/blob/main/images/sistema.png" max-width="800">
 </p>
 
 ## :seedling: Requisitos Mínimos
